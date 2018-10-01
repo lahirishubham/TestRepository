@@ -86,3 +86,14 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 $ git add *.txt										// to add all file of txt type
 
+
+
+
+
+
+
+
+
+$ git commit -am "Direct commit without add"					// direct commit without add
+[master b7e6679] Direct commit without add
+ 1 file changed, 1 insertion(+), 1 deletion(-)
