@@ -118,3 +118,15 @@ f5ff9dd Second commit: Comments
 $ git log --oneline -2
 a8ae777 Direct commit without add 2				// last 2 commits
 50ce4bb Direct commit without add 2
+
+
+
+
+
+$ git branch							// to get the current branch
+
+
+
+
+
+
