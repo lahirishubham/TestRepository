@@ -97,3 +97,24 @@ $ git add *.txt										// to add all file of txt type
 $ git commit -am "Direct commit without add"					// direct commit without add, am is used instead of m
 [master b7e6679] Direct commit without add
  1 file changed, 1 insertion(+), 1 deletion(-)
+
+
+
+
+
+$ git log --oneline
+a8ae777 Direct commit without add 2
+50ce4bb Direct commit without add 2
+b7e6679 Direct commit without add
+fe82a41 More comments added in comments.txt and 1 text added in File1.txt
+278d1fe More comments added in comments.txt and 1 text added in File1.txt
+f5ff9dd Second commit: Comments
+31681f2 First commit: anfield
+
+
+
+
+
+$ git log --oneline -2
+a8ae777 Direct commit without add 2				// last 2 commits
+50ce4bb Direct commit without add 2
