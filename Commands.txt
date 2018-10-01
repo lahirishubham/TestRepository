@@ -94,6 +94,6 @@ $ git add *.txt										// to add all file of txt type
 
 
 
-$ git commit -am "Direct commit without add"					// direct commit without add
+$ git commit -am "Direct commit without add"					// direct commit without add, am is used instead of m
 [master b7e6679] Direct commit without add
  1 file changed, 1 insertion(+), 1 deletion(-)
